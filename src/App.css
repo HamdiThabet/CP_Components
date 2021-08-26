@@ -1,7 +1,21 @@
 .App {
   text-align: center;
 }
+.profilee{
+  padding-left: 40%;
 
+}
+.Adresse{
+  background-color: rgb(50, 184, 38);
+  color: black;
+  text-align: center;
+}
+.FName{
+  background-color: aquamarine;
+  color: black;
+  text-align: center;
+
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
